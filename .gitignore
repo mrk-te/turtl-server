@@ -8,3 +8,4 @@ npm-debug.log
 /play
 *.stackdump
 /scripts/grim
+docker-compose.override.yml
